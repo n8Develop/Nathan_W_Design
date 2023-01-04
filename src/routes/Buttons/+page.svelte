@@ -1,5 +1,6 @@
-<script>
+<script lang="ts">
 	import ProgressButton from '@components/ProgressBar/progressButton.svelte';
 </script>
 
-<ProgressButton id={0} />
+<p>other page</p>
+<ProgressButton id={1} />
